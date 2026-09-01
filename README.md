@@ -4,6 +4,7 @@ Designed a dynamic Matrix with Heat Mapping to compare metrics (Total Sales, Avg
 
 Applied advanced area charts and funnel visuals to track Outlet Establishment trends and Location distribution (Tier 1/2/3), aiding in strategic expansion and stock allocation.
 
+
 Utilized Parameterized Analysis to toggle between Avg Sales, Total Sales, and Ratings, providing a 360-degree view of item-level performance and fat-content preferences.
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/c7cb4576-ed99-4654-a040-8bb62f1fd9c0" />
 <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/bb59f532-ba94-46b6-8b2b-3309ebc1b885" />
