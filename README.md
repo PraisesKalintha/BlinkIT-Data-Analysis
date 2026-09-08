@@ -9,6 +9,7 @@
 
 An end-to-end Power BI analysis architected to audit **$1.20M in retail revenue** across **9,000+ inventory items**, uncovering which outlet tiers, establishment types, and product categories actually drive performance — and which are quietly underperforming their shelf space.
 
+
 ---
 
 ## 📌 Project Overview
