@@ -112,5 +112,6 @@ This project is licensed under the MIT License.
 
 
 Utilized Parameterized Analysis to toggle between Avg Sales, Total Sales, and Ratings, providing a 360-degree view of item-level performance and fat-content preferences.
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/
+
+<img width="1375" height="742" alt="Screenshot 2026-09-08 133241" src="https://github.com/user-attachments/assets/d6270b4d-ed4a-458d-a05a-f1a33a1115ac" />
 
