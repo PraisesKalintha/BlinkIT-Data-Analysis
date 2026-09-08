@@ -58,6 +58,7 @@ Raw outlet and item-level sales data rarely explains itself. This project builds
 | Horizontal Bar Charts | Item Type and Fat-by-Outlet performance breakdowns |
 | Funnel-style Tier Bars | Outlet Location distribution across Tier 1 / Tier 2 / Tier 3 |
 
+
 ---
 
 ## 🛠️ Tools & Techniques
