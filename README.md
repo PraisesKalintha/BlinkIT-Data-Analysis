@@ -32,7 +32,6 @@ Raw outlet and item-level sales data rarely explains itself. This project builds
 | Outlet Location Tiers | Tier 1 / Tier 2 / Tier 3 |
 | Outlet Types Compared | Grocery Store, Supermarket Type 1/2/3 |
 
-
 ---
 
 ## 🧭 What the Dashboard Does
