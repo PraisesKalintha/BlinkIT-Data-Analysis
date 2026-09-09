@@ -19,7 +19,6 @@ An end-to-end Power BI analysis architected to audit **$1.20M in retail revenue*
 Raw outlet and item-level sales data rarely explains itself. This project builds a fully interactive Power BI dashboard that goes beyond flat totals to isolate the real revenue drivers behind Blinkit's retail network — comparing performance across Grocery Stores and Supermarket Types 1–3, outlet sizes, location tiers, and item categories, then packaging the findings into a dynamic, decision-ready dashboard rather than a static report.
 
 
-
 ---
 
 ## 🔢 Key Metrics
